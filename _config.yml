@@ -28,7 +28,7 @@ author:
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"
   uri              : # URL
-  email            : "rebwin@kth.se" 
+  email            : "rebwin@kth.se"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
