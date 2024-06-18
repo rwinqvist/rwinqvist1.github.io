@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="font-size: 30px; color: grey;"> Hello! </p>
-<p style="font-size: 20px; color: black;">Hello! Welcome to my page..</p>
+<p style="font-size: 20px; color: $text-color;">Hello! Welcome to my page..</p>
 
 
 
