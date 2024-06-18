@@ -35,7 +35,6 @@ feature_row5:
         - deep-learning
         - transfer-learning
         - PyTorch
----
 
 
 {% include feature_row id="instruMentor" type="left" %}
