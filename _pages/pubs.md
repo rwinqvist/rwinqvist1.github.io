@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 
 instruMentor:
-  - image_path: /images/instruMentor/instrumentor.png
+  - image_path: instruMentor/instrumentor.png
     alt: "instruMentor"
     title: "instruMentor: An Interactive Robot for Musical Instrument Tutoring"
     text: "Musical instrument education has typically faced challenges in providing students with a cost-efficient and long-term solution for personalised tutoring. To address these challenges, we propose a musical instrument tutor robot for students learning the recorder, called instruMentor. Equipped with robotic hands and a multimodal interface, the robot interacts with users by playing the recorder and demonstrating in real-time the proper handling of the instrument. A pilot study was conducted to investigate the effectiveness of a robot tutor for instrument learning. Experimental results suggest that instruMentor is successful at teaching the recorder and is positively appreciated by users, showing promise for the future coupling of music tutoring and social robots."
