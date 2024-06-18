@@ -160,12 +160,11 @@
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
-  width: 100%;
 }
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: 1.125rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;
@@ -244,3 +243,20 @@
     }
   }
 }
+
+
+/*
+   Wide Pages
+   ========================================================================== */
+
+   .wide {
+    .archive {
+      @include breakpoint($large) {
+        padding-right: 0;
+      }
+  
+      @include breakpoint($x-large) {
+        padding-right: 0;
+      }
+    }
+  }
