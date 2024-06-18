@@ -24,7 +24,7 @@ redirect_from:
 
 <p style="font-size: 90px; color: grey;"> hello, </p>
 
-<p style="font-size: 90px;"> Welcome to my page! My name is Rebecka Winqvist and I'm a 4th year PhD student in Jana Tumova's group at RPL, KTH. </p>
+<p style="font-size: 20px;"> Welcome to my page! My name is Rebecka Winqvist and I'm a 4th year PhD student in Jana Tumova's group at RPL, KTH. </p>
 
 
 
