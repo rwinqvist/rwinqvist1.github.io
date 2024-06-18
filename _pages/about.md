@@ -12,10 +12,10 @@ redirect_from:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Markdown with Google Fonts</title>
     <!-- Google Fonts Link -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Playwrite US Trad', cursive;
         }
         h1 {
             font-weight: 700;
@@ -29,7 +29,6 @@ redirect_from:
     <h1>Hello, World!</h1>
     <p>This is a paragraph using the Roboto font.</p>
 </body>
-</html>
 
 <p style="font-size: 30px; color: grey;"> Hello! </p>
 <p style="font-size: 20px; color: $text-color;">Hello! Welcome to my page..</p>
