@@ -22,7 +22,7 @@ redirect_from:
 </head>
 
 <p style="font-size: 90px; color: grey;"> hello, </p>
-<p style="font-size: 20px; color: $text-color;">Hello! Welcome to my page..</p>
+Welcome to my page! My name is Rebecka Winqvist and I'm a 4th year PhD student in Jana Tumova's group at RPL, KTH. 
 
 
 
