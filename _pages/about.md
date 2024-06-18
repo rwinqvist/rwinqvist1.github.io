@@ -18,7 +18,7 @@ redirect_from:
             font-family: 'Playwrite US Trad', cursive;
         }
         h1 {
-            font-weight: 700;
+            font-weight: 400;
         }
         p {
             font-weight: 400;
