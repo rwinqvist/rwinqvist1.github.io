@@ -6,22 +6,16 @@ author_profile: true
 classes: wide
 
 instruMentor:
-  - image_path: assets/gif/gifify.gif
+  - image_path: /images/instruMentor/instrumentor.png
     alt: "instruMentor"
     title: "instruMentor: An Interactive Robot for Musical Instrument Tutoring"
-    text: "I developed a Gifify app where a user can upload a video and get it processed into a gif. This is a Flask app deployed to AWS EC2 instance. The user login data is saved into DynamoDB, while the users' uploaded videos and resulting gifs are stored on S3 buckets. The video processing is implemented through a Lambda function (deployed via Docker to ECS)."
+    text: "Musical instrument education has typically faced challenges in providing students with a cost-efficient and long-term solution for personalised tutoring. To address these challenges, we propose a musical instrument tutor robot for students learning the recorder, called instruMentor. Equipped with robotic hands and a multimodal interface, the robot interacts with users by playing the recorder and demonstrating in real-time the proper handling of the instrument. A pilot study was conducted to investigate the effectiveness of a robot tutor for instrument learning. Experimental results suggest that instruMentor is successful at teaching the recorder and is positively appreciated by users, showing promise for the future coupling of music tutoring and social robots."
     url: "https://link.springer.com/chapter/10.1007/978-3-030-23807-0_25"
-    btn_label: "Code"
+    btn_label: "PDF"
     btn_class: "btn--primary"
     tags:
-        - AWS
-        - Lambda
-        - S3
-        - EC2
-        - DynamoDB
-        - Flask
-        - ECS
-        - Docker
+        - Robotics
+        - HRI
 
 feature_row5:
   - image_path: assets/images/portfolio/deep_learning-thumb-800.jpg
@@ -38,36 +32,11 @@ feature_row5:
         - PyTorch
 ---
 
-## Projects in Computer Science
 
 {% include feature_row id="instruMentor" type="left" %}
 <a name="Gifify AWS app"></a>
-{% include feature_row id="feature_row0-2" type="left" %}
-<a name="HWT game"></a>
-{% include feature_row id="feature_row0-3" type="left" %}
-<a name="GhostKitchen Node.js app"></a>
-{% include feature_row id="feature_row0-4" type="left" %}
-<a name="Python app"></a>
-<a name="NLP Flask app"></a>
-{% include feature_row id="feature_row2" type="left" %}
-<a name="KD Tree algorithm"></a>
-{% include feature_row id="feature_row0-5" type="left" %}
 
-## Projects in Data Science
 
 &nbsp;
-<a name="Signal-Processing">
-{% include feature_row id="feature_row1-0" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
 <a name="Deep-Learning">
-{% include feature_row id="feature_row1-1" type="left" %}
-<a name="Marketing-Analytics"></a>
-{% include feature_row id="feature_row1-2" type="left" %}
-<a name="Purchase-Analytics"></a>
-{% include feature_row id="feature_row1-3" type="left" %}
-<a name="Tableau-Dashboard"></a>
-{% include feature_row id="feature_row1-4" type="left" %}
-<!-- <a name="Digital-Marketing"></a>
-{% include feature_row id="feature_row4" type="left" %} -->
-<a name="Recommender-System"></a>
-{% include feature_row id="feature_row3" type="left" %}
