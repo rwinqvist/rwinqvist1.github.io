@@ -25,6 +25,7 @@
 
   .page__inner-wrap {
     @include full();
+    width: $llarge;
 
     .page__content,
     .page__meta,
