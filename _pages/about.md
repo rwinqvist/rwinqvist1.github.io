@@ -24,7 +24,7 @@ redirect_from:
     <p>This is a paragraph using the Roboto font.</p>
 </body>
 
-<p style="font-size: 30px; color: grey;"> Hello! </p>
+<p style="font-size: 50px; color: grey;"> hello, </p>
 <p style="font-size: 20px; color: $text-color;">Hello! Welcome to my page..</p>
 
 
