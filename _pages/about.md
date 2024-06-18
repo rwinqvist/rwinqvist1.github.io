@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+<p style="font-size: 20px; color: blue;">Hello! Welcome to my page..</p>
 
 A data-driven personal website
 ======

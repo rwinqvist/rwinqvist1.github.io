@@ -44,7 +44,7 @@ feature_row5:
 &nbsp;
 
 {% include feature_row id="instruMentor" type="left" %}
-<a name="Gifify AWS app"></a>
+<a name="instruMentor paper"></a>
 
 
 &nbsp;
