@@ -36,7 +36,7 @@ feature_row5:
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  <p style="font-size: 14px;"> You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
 &nbsp;
