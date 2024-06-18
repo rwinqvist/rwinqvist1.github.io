@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ''
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,5 +10,5 @@ redirect_from:
 <p style="font-size: 30px; color: grey;"> Hello! </p>
 <p style="font-size: 14px; color: black;">Hello! Welcome to my page..</p>
 
-A data-driven personal website
-======
+
+
