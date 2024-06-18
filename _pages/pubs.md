@@ -36,9 +36,12 @@ feature_row5:
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 {% endif %}
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 {% include feature_row id="instruMentor" type="left" %}
 <a name="Gifify AWS app"></a>
