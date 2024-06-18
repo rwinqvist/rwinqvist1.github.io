@@ -4,11 +4,7 @@ title: "Recent publications"
 permalink: /publications/
 author_profile: true
 classes: wide
----
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 instruMentor:
   - image_path: instruMentor/instrumentor.png
@@ -35,6 +31,13 @@ feature_row5:
         - deep-learning
         - transfer-learning
         - PyTorch
+
+
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 
 {% include feature_row id="instruMentor" type="left" %}
